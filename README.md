@@ -13,7 +13,7 @@ En esta actividad aplicamos de forma practica muchos mas conceptos y funcionalid
 #### .Objetos literales
 
 
-##### imagenes ejemplificadas del codoigo
+##### imagenes ejemplificadas del codigo
 
 #### 1
 ![Captura de pantalla 2022-07-22 152808](https://user-images.githubusercontent.com/105325882/180554408-f2b496ed-6ac7-43b9-874c-81d0cfca407a.png)
